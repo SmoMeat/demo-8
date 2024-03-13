@@ -1,0 +1,12 @@
+                                                                    Exercice 1
+'Écrivez une fonction compter(texte1, texte2) qui prend en paramètre deux textes
+et qui retourne le nombre de fois que le deuxième texte (qui doit être non vide) apparaît
+ dans le premier texte sans chevauchement. Écrivez aussi des tests unitaires.'
+                                                                    Exercice 2
+     Écrivez une fonction enCommun(texte1, texte2) qui prend en paramètre deux
+textes et qui retourne True si les deux textes ont un caractère en commun (c’est-à-dire
+qu’il existe un caractère dans texte1 qui apparaît aussi dans texte2). Écrivez aussi
+                                                          des tests unitaires.
+                                                                    Exercice 3
+Expérimentez avec l’utilisation des commandes shell suivantes avec des chemins
+                                                d’accès absolus et 'relatifs' :

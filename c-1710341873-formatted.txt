@@ -1,0 +1,8 @@
+Les deux brins se lisent en sens inverse. 
+Ainsi le brin supérieur se lit de gauche à droite et le brin inférieur de droite à gauche. 
+Les deux brins peuvent avoir des gènes. 
+Le brin fourni dans cet exercice est celui se lisant de gauche à droite (le brin supérieur). 
+Vous devrez générer le brin complémentaire pour vérifier s’il y a des gènes dessus. 
+N’oubliez pas que deux étapes seront nécessaires : - Écrire le brin complémentaire - Le lire en sens inverse ou le retourner pour le lire de gauche à droite Un gène débute toujours par la même séquence de trois nucléotides : TAC. 
+Il y a ensuite un nombre de nucléotides quelconque mais toujours un multiple de trois. 
+On trouve ensuite une séquence permettant de terminer le gène, cette séquence peut être ATT, ATC ou ACT.
